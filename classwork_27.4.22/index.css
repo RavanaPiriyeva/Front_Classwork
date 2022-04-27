@@ -1,0 +1,15 @@
+.text2{
+    background-color: rgb(127, 197, 255);
+    padding: 5px;
+ border-top-left-radius:5px ;
+ border-top-right-radius:5px ;
+ border-bottom: 3px solid green  ;
+}
+.text3{
+    line-height: 30px;
+}
+body{
+    
+    height: 100%;
+    margin: 0;
+}
