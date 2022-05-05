@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.section1{
+    display: flex;
+
+position: relative;
+}
+div{
+    
+    height: 344.55px;
+    position: absolute;
+}
+.section2{
+    display: flex;
+}
+img{
+width: 99.99%;
+z-index: 1;
+}
+div:hover{
+    background-color: brown;
+    z-index: 2;
+}
